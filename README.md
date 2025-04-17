@@ -107,6 +107,12 @@ The application provides a console-based interface with the following main menus
 - Search blogs
 - Logout
 
+## Recognition
+
+This project was developed as part of the Sunbeam Hackathon held on April 16, 2025. The developer successfully completed the hackathon and received a certificate of completion.
+
+![Sunbeam Hackathon Certificate](certificate.jpg)
+
 ## License
 
 This project was created as part of a hackathon and is intended for educational purposes. 
